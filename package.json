@@ -1,0 +1,19 @@
+{
+  "name": "gamebot11",
+  "version": "1.0.0",
+  "description": "simple and cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OleksiiJS-dev/gamebot11.git"
+  },
+  "author": "OleksiiJSJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OleksiiJS-dev/gamebot11/issues"
+  },
+  "homepage": "https://github.com/OleksiiJS-dev/gamebot11#readme"
+}
